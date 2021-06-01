@@ -1,17 +1,21 @@
-**Car-Price-Prediction**
+#Car-Price-Prediction
+
 Car price prediction using Flask as framework and deployed on HEROKU platform
 
 
-**Table of contents**
-* 1.Objective
-* 2. Dataset
-* 3. Car Price Prediction API Link
+#Table of contents
+1. Objective
+2. Dataset
+3. Car Price Prediction API Link
 
-**Objective**
+##Objective
+
 To build suitable Machine Learning Model for Car Price Prediction on the below data set.
 
-**Dataset**
+##Dataset
+
 A preview of top five rows of the dataset.
+
    |Car_Name   |Year |	Selling_Price |	Present_Price |	Kms_Driven | Fuel_Type | Seller_Type   | Transmission |	Owner  
 ------------------------------------------------------------------------------------------------------------------------
 0  |	ritz   |2014 |	3.35	      | 5.59	      | 27000	   | Petrol    | Dealer	       | Manual       | 0      
@@ -34,5 +38,6 @@ Seller_Type    | Type of seller
 Transmission   | Gear transmission of the car (Automatic/Manual)
 Owner	       | Number of previous owners
 
-**Car Price Prediction API Link**
+##Car Price Prediction API Link
+
 For API [Click Here]()
