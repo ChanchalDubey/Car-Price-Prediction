@@ -27,7 +27,7 @@ A preview of top five rows of the dataset.
 This dataset contains information about used cars listed on [website](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv) This data can be used for a lot of purposes such as price prediction to exemplify the use of Random Forest Regressor in Machine Learning. The columns in the given dataset are as follows:
 
 | Column name    | Description                                      |
-|-------------------------------------------------------------------|
+|----------------|--------------------------------------------------|
 | Car_Name       | Name of Car sold                                 |
 | Year	         | Year in which car was bought                     |
 | Selling_Price  | Price at which car sold                          |
